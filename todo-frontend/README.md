@@ -9,7 +9,7 @@
 ### Step1: Clone Github Repository
 
 ```bash
-[git clone](https://github.com/Rishabh-code-do/todolist-app.git)
+git clone https://github.com/Rishabh-code-do/todolist-app.git
 cd todo-frontend
 ```
 
