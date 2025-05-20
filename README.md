@@ -7,8 +7,8 @@
 
 ## Installation
 
-- For Backend setup read Todolist readme file
-- For Frontend setup read todo-frontend readme file
+- For Backend setup read `Todolist` readme file
+- For Frontend setup read `todo-frontend` readme file
 
 ## Todolist Feature
 - User can add task
