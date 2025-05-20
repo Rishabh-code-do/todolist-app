@@ -21,3 +21,4 @@
 - Can Also add Notification Service to schedule notification to the user.
 - Can implement Categorization feature
 - Have added one `duedate` field , that can be used for task prioritisation, remind user of overdue task , future task etc.
+- Can also add a feature/api to check completed task.
